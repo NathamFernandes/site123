@@ -1,8 +1,8 @@
-# oi 
-## você que está lendo
-------------
-teste
-===========
-seu computador foi hackeado
-e irá explodir em 10 segundos.
-teste
+# SITE TESTE PARA AS FUNÇÕES MARKDOWN
+## ALGUMAS FUNÇÕES SERÃO TESTADAS AQUI.
+-----------
+
+GRAFICO 1| GRAFICO 2
+-----------  | -------
+teste |
+adasd |
